@@ -1,0 +1,7 @@
+...................Result...............................................................................
+Name :Vivel_Kulkarni Roll no:21
+sub1 :Science Marks:98.000000
+sub2 :Maths Marks:97.000000
+sub3 :English Marks:95.000000
+Total marks:290.000000 & average:96.666664
+Grade:O
