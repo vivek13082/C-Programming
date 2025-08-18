@@ -2,15 +2,16 @@
 int main()
 {
     int i,j,n;
-    printf("Enter number of rows");
+    printf("Enter N");
     scanf("%d",&n);
-    for (i = 0; i <= n; i++)
+    for ( i = 0; i <= n; i++)
     {
-        for ( j = 0; j <= i; j++)
+        for ( j = 0; j <n; j++)
         {
-            printf(" %c",'A'+j);
+            printf(" %d",(i+j)%n+1);
         }
         printf("\n");
     }
     return 0;
+    
 }
